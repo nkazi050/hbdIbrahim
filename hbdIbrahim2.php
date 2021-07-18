@@ -21,7 +21,7 @@
 
             .vdo{
                 width: 100%;
-                height: 95%;
+                height: 100%;
             }
 
             .txt{
@@ -59,7 +59,7 @@
 
         <div class="txt">
 
-            <h2 class="heading">Happy Birthday Once Again Raheen <span class="etn">:D</span> !!</h2>
+            <h2 class="heading">Happy Birthday Once Again Ibrahim <span class="etn">:D</span> !!</h2>
 
         </div>
 
