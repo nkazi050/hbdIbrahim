@@ -50,6 +50,12 @@
 
     <?php ?>
 
+        <div class="txt">
+
+            <h2 class="heading">Birthday Wish from your Favourite Character !!</h2>
+
+        </div>
+
         <div class="vdo">
 
             <video width="1080" height="1920" controls id="img1">
