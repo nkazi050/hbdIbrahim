@@ -21,13 +21,13 @@
 
             .vdo{
                 width: 100%;
-                height: 90%;
+                height: 95%;
             }
 
             .txt{
                 border: 2px white solid;
                 width: 100%;
-                height: 10%;
+                height: 5%;
             }
 
             #img1 {
